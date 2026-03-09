@@ -24,6 +24,8 @@ The dataset is publicly available on Kaggle and contains ~100k orders from 2016�
 
 ## 🏗️ Architecture Overview
 
+![Architecture Diagram](Brazilian_E-Commerce_Architecture_Diagram.png)
+
 ```
 Azure Data Lake Storage Gen2 (ADLS)
         │
