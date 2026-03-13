@@ -1,4 +1,4 @@
-# 🛒 Brazilian E-Commerce Data Pipeline — Databricks + Azure
+# 🛒 E-Commerce Azure Databricks Pipeline — Medallion Architecture
 
 A end-to-end data engineering project built on **Databricks** with **Azure Data Lake Storage Gen2**, implementing a **Medallion Architecture** (Bronze → Silver → Gold) to process the open-source [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
